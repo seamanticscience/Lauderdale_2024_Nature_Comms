@@ -9,10 +9,14 @@ Box model code, processing routines, and model ensemble data for the paper "Ocea
 
 Everything is controlled via the two Jupyter Notebooks:
 
-`1_spinup_microCOSM_6box.ipynb` creates the fixed and variable ligand control runs, and
+`1_spinup_microCOSM_6box.ipynb` creates the fixed and variable ligand control runs (runtime about half an hour), and
 
-`2_run_microCOSM_psi_ensemble_6box.ipynb` performs the MOC ensemble runs, and sensitivity tests.
+`2_run_microCOSM_psi_ensemble_6box.ipynb` performs the MOC ensemble runs and sensitivity tests (runtime a couple of hours).
 
-Packages required include `Matplotlib`, `Numpy`, `Pandas`, `Scipy`, and optionally `Pandarallel` for parallel runs.
+Packages required include `Matplotlib`, `Numpy`, `Pandas`, `Scipy`, and optionally `Pandarallel` for parallel runs. You can use the `microcosm_environment.yml` file to recreate my working environment by running:
+
+```
+>>conda env create -f microcosm_environment.yml
+```
 
 Any questions or comments, please get in contact!
