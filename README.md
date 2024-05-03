@@ -1,4 +1,4 @@
-# Lauderdale_2024_NCOMMS2334222A
+# Lauderdale_2024_Nature_Comms
 [![DOI](https://zenodo.org/badge/760101050.svg)](https://zenodo.org/doi/10.5281/zenodo.11110635)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/seamanticscience/Lauderdale_2024_NCOMMS2334222A?color=1b3370)
 ![GitHub last commit](https://img.shields.io/github/last-commit/seamanticscience/Lauderdale_2024_NCOMMS2334222A?color=f44323)
