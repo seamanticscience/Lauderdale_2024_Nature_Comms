@@ -3,7 +3,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/seamanticscience/Lauderdale_2024_NCOMMS2334222A?color=1b3370)
 ![GitHub last commit](https://img.shields.io/github/last-commit/seamanticscience/Lauderdale_2024_NCOMMS2334222A?color=f44323)
 ![GitHub License](https://img.shields.io/github/license/seamanticscience/Lauderdale_2024_NCOMMS2334222A?color=ffa500)
-<!-- <a href="https://doi.org/10.1073/pnas.1917277117"><img src="http://img.shields.io/badge/paper%20link-doi:10.1073%2Fpnas.1917277117-lightgrey.svg" alt="Link to paper at https://doi.org/10.1073/pnas.1917277117"></a> -->
+<a href="https://doi.org/10.1038/s41467-024-49274-1"><img src="http://img.shields.io/badge/paper%20link-doi:10.1038%2Fs41467--024--49274--1-lightgrey.svg" alt="Link to paper at https://doi.org/10.1038/s41467-024-49274-1"></a>
 
 Box model code, processing routines, and model ensemble data for the paper "Ocean iron cycle feedbacks decouple atmospheric CO<sub>2</sub> from meridional overturning circulation changes" by Jonathan Maitland Lauderdale. <!-- in Proceedings of the National Academy of Sciences. -->
 
